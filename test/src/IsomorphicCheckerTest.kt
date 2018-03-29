@@ -34,4 +34,11 @@ class IsomorphicCheckerTest {
         val result2 = checker.check("llc", "aaa")
         assertFalse(result2)
     }
+
+    @Test
+    fun checkInputWords() {
+        assertTrue(checker.check("LALALA", "XOXOXO"))
+        assertFalse(checker.check("GCGCGC", "HHHCCC"))
+        assertFalse(checker.check("BBBMMM", "EGONUH"))
+    }
 }
