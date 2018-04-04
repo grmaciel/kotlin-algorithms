@@ -1,32 +1,27 @@
 class LongestSubstringFinder {
     fun find(input: String): String {
-        var marked: BooleanArray
+        var marked = BooleanArray(26)
         var substring = ""
-        var start = 0
-        var finished = false
+        var tempString = ""
 
-        while (!finished) {
-            var tempString = ""
-            marked = BooleanArray(26)
-            run loop@ {
-                for (i in start until input.length) {
-                    val c = input[i]
-                    val index = c - 'a'
-                    if (marked[index]) {
-                        if (input.length - i <= substring.length) {
-                            finished = true
-                        } else {
-                            start = i
-                        }
-                        return@loop
-                    }
-                    tempString += c
-                    marked[index] = true
-                }
-                finished = true
+        for (i in 0 until input.length) {
+            val character = input[i]
+            val asciiIndex = character - 'a'
+            if (marked[asciiIndex]) {
+                substring = longestSubstring(substring, tempString)
+                tempString = ""
+                marked = BooleanArray(26)
             }
-            if (substring.length < tempString.length) substring = tempString
+            tempString += character
+            marked[asciiIndex] = true
         }
+        substring = longestSubstring(substring, tempString)
         return substring
+    }
+
+    private fun longestSubstring(substring: String, tempString: String): String {
+        var substring1 = substring
+        if (substring1.length < tempString.length) substring1 = tempString
+        return substring1
     }
 }
