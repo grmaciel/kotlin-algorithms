@@ -1,39 +1,32 @@
 class LongestSubstringFinder {
     fun find(input: String): String {
-        var maxFound = 0
-        var marked = BooleanArray(26)
+        var marked: BooleanArray
         var substring = ""
-
         var start = 0
-        for (i in start until input.length) {
+        var finished = false
 
-        }
-        run loop@{
-            input.forEachIndexed { index, c ->
-                val index = c - 'a'
-                if (marked[index]) {
-                    var start = index
-                    for (i in start until input.length) {
-
+        while (!finished) {
+            var tempString = ""
+            marked = BooleanArray(26)
+            run loop@ {
+                for (i in start until input.length) {
+                    val c = input[i]
+                    val index = c - 'a'
+                    if (marked[index]) {
+                        if (input.length - i <= substring.length) {
+                            finished = true
+                        } else {
+                            start = i
+                        }
+                        return@loop
                     }
-                    return@loop
+                    tempString += c
+                    marked[index] = true
                 }
-                substring += c
-                marked[index] = true
-
-                if (index - input.length < maxFound) {
-
-                    // we can break but fuck this improvement
-                }
+                finished = true
             }
+            if (substring.length < tempString.length) substring = tempString
         }
-
         return substring
-    }
-
-    fun check(start: Int, input: String) {
-        for (i in start until input.length) {
-
-        }
     }
 }
