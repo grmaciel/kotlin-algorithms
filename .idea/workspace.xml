@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Anagram.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LongestSubstringFinder.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/src/AnagramTest.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/src/LongestSubstringTest.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/kotlin-algorithms/IsomorphicChecker.class" afterPath="$PROJECT_DIR$/out/production/kotlin-algorithms/IsomorphicChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
