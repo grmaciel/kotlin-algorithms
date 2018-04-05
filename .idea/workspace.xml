@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/test/src/PalindromeTest.kt" line="13" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Palindrome.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/src/PalindromeTest.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />

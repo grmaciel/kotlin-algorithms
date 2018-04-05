@@ -1,8 +1,6 @@
-# Algorithms 
+# Problems so far solved:
 
-## Problems solved:
-
-* Given two strings s and t, determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t.** 
+* Given two strings s and t, determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t.
 
 * Given two strings s and t, write a function to determine if t is an anagram of s.<br>
 
