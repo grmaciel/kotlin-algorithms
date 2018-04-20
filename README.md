@@ -18,4 +18,4 @@ For example:
 ```Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=0, index2=1```
 
-* Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. For example, given [3,2,1,5,6,4] and k = 2, return 5. Note: You may assume k is always valid, 1 ≤ k ≤ array's length.```
+* Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. For example, given [3,2,1,5,6,4] and k = 2, return 5. Note: You may assume k is always valid, 1 ≤ k ≤ array's length.
