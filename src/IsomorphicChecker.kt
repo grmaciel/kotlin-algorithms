@@ -1,3 +1,7 @@
+/**
+ * Complexity: O(N)
+ */
+
 class IsomorphicChecker {
     private lateinit var array: Array<Int>
     private lateinit var marked: Array<Boolean>

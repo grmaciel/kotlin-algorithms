@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayRotator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Anagram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsomorphicChecker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsomorphicChecker.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +21,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="ArrayRotatorTest.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayRotator.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayRotator.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Anagram.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsomorphicChecker.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -53,15 +87,17 @@
         <option value="$PROJECT_DIR$/test/src/TestTest.kt" />
         <option value="$PROJECT_DIR$/test/src/IsomorphicWordTest.kt" />
         <option value="$PROJECT_DIR$/test/src/IsomorphicCheckerTest.kt" />
-        <option value="$PROJECT_DIR$/src/IsomorphicChecker.kt" />
         <option value="$PROJECT_DIR$/test/src/AnagramTest.kt" />
-        <option value="$PROJECT_DIR$/src/Anagram.kt" />
         <option value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
         <option value="$PROJECT_DIR$/test/src/LongestSubstringTest.kt" />
         <option value="$PROJECT_DIR$/src/LongestSubstringFinder.kt" />
         <option value="$PROJECT_DIR$/src/Palindrome.kt" />
         <option value="$PROJECT_DIR$/test/src/PalindromeTest.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" />
+        <option value="$PROJECT_DIR$/src/ArrayRotator.kt" />
+        <option value="$PROJECT_DIR$/src/Anagram.kt" />
+        <option value="$PROJECT_DIR$/src/IsomorphicChecker.kt" />
       </list>
     </option>
   </component>
@@ -135,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AnagramTest">
+  <component name="RunManager" selected="JUnit.ArrayRotatorTest">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -175,14 +211,31 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LongestSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayRotatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlin-algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestSubstringTest" />
+      <option name="MAIN_CLASS_NAME" value="ArrayRotatorTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-algorithms" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayRotatorTest" />
+      <option name="METHOD_NAME" value="shouldRotateArrayWithKBeingTheFirstElement" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
@@ -200,23 +253,6 @@
       <option name="MAIN_CLASS_NAME" value="PalindromeTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersOnTheOppositePosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-algorithms" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PalindromeTest" />
-      <option name="METHOD_NAME" value="palindromesShouldHaveTheSameLettersOnTheOppositePosition" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
@@ -318,18 +354,18 @@
     <list>
       <item itemvalue="JUnit.Tests" />
       <item itemvalue="JUnit.AnagramTest" />
-      <item itemvalue="JUnit.LongestSubstringTest" />
       <item itemvalue="JUnit.PalindromeTest" />
-      <item itemvalue="JUnit.PalindromeTest.palindromesShouldHaveTheSameLettersOnTheOppositePosition" />
       <item itemvalue="JUnit.PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" />
+      <item itemvalue="JUnit.ArrayRotatorTest" />
+      <item itemvalue="JUnit.ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayRotatorTest" />
+        <item itemvalue="JUnit.ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" />
         <item itemvalue="JUnit.AnagramTest" />
         <item itemvalue="JUnit.PalindromeTest" />
         <item itemvalue="JUnit.PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" />
-        <item itemvalue="JUnit.PalindromeTest.palindromesShouldHaveTheSameLettersOnTheOppositePosition" />
-        <item itemvalue="JUnit.LongestSubstringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -347,35 +383,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PalindromeTest - 2018.04.05 at 08h 46m 56s.xml">
-      <configuration name="PalindromeTest" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 35m 43s.xml">
+      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 36m 13s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest_shouldRotateArrayWithKBeingTheFirstElement - 2018.04.20 at 14h 39m 01s.xml">
+      <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 36m 29s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest_shouldRotateArrayWithKBeingTheFirstElement - 2018.04.20 at 14h 50m 54s.xml">
+      <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 36m 41s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest_shouldRotateArrayWithKBeingTheFirstElement - 2018.04.20 at 14h 50m 58s.xml">
+      <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 36m 45s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 51m 24s.xml">
+      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 36m 55s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 54m 00s.xml">
+      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 37m 05s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 58m 47s.xml">
+      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 37m 11s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 59m 55s.xml">
+      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeTest_palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection - 2018.04.05 at 08h 46m 19s.xml">
-      <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest - 2018.04.20 at 15h 00m 39s.xml">
+      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2018.04.19 at 14h 30m 35s.xml">
-      <configuration name="AnagramTest" configurationId="JUnit" />
+    <history-entry file="ArrayRotatorTest - 2018.04.20 at 15h 00m 57s.xml">
+      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -393,12 +429,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292978" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30347055" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5048099" side_tool="true" weight="0.5023734" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4951901" weight="0.53107345" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4951901" visible="true" weight="0.37368846" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -408,7 +445,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39951575" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,7 +453,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30427763" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -424,13 +460,31 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="40" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="46" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="array[0]" language="kotlin" />
+        <watch expression="array[i]" language="kotlin" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>array[i]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/src/AnagramTest.kt">
@@ -637,6 +691,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#106#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -655,13 +712,6 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
-    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -693,17 +743,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="396">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayRotator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>

@@ -1,3 +1,6 @@
+/**
+ * Complexity: O(N)
+ */
 class Anagram {
     fun check(input1: String, input2: String): Boolean {
         var str1 = input1.replace(" ", "").toLowerCase()
