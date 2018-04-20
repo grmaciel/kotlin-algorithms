@@ -1,5 +1,6 @@
 # Problems so far solved:
 
+## Strings
 * Given two strings s and t, determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t.
 
 * Given two strings s and t, write a function to determine if t is an anagram of s.<br>
@@ -11,6 +12,7 @@
 
 ## Next problems:
 
+## Array
 * Rotate an array of n elements to the right by k steps. For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
 
 * Given an array of integers, find two numbers such that they add up to a specific target number. The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2. Please note that your returned answers (both index1 and index2) are not zero-based.
