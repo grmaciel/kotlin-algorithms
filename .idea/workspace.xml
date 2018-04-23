@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayRotator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoNumberSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/TwoNumberSumTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Anagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Anagram.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IsomorphicChecker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsomorphicChecker.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +18,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ArrayRotatorTest.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="176">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#73#0" expanded="true" />
@@ -37,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/ArrayRotator.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,11 +49,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsomorphicChecker.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IsomorphicChecker.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestSubstringFinder.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoNumberSum.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TwoNumberSum.kt">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoNumberSumTest.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/TwoNumberSumTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +94,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -98,14 +127,15 @@
         <option value="$PROJECT_DIR$/src/ArrayRotator.kt" />
         <option value="$PROJECT_DIR$/src/Anagram.kt" />
         <option value="$PROJECT_DIR$/src/IsomorphicChecker.kt" />
+        <option value="$PROJECT_DIR$/test/src/TwoNumberSumTest.kt" />
+        <option value="$PROJECT_DIR$/src/TwoNumberSum.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1817" />
-    <option name="y" value="38" />
-    <option name="width" value="2183" />
-    <option name="height" value="1336" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,8 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayRotatorTest">
+  <component name="RunManager" selected="JUnit.TwoNumberSumTest">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -262,23 +292,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-algorithms" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PalindromeTest" />
-      <option name="METHOD_NAME" value="palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="Tests" type="JUnit" factoryName="JUnit">
       <module name="kotlin-algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -299,6 +312,23 @@
       <method>
         <option name="Make" enabled="false" />
       </method>
+    </configuration>
+    <configuration name="TwoNumberSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-algorithms" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TwoNumberSumTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -355,17 +385,17 @@
       <item itemvalue="JUnit.Tests" />
       <item itemvalue="JUnit.AnagramTest" />
       <item itemvalue="JUnit.PalindromeTest" />
-      <item itemvalue="JUnit.PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" />
       <item itemvalue="JUnit.ArrayRotatorTest" />
       <item itemvalue="JUnit.ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" />
+      <item itemvalue="JUnit.TwoNumberSumTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TwoNumberSumTest" />
         <item itemvalue="JUnit.ArrayRotatorTest" />
         <item itemvalue="JUnit.ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" />
         <item itemvalue="JUnit.AnagramTest" />
         <item itemvalue="JUnit.PalindromeTest" />
-        <item itemvalue="JUnit.PalindromeTest.palindromesShouldHaveTheSameLettersStartingOnTheOppositeDirection" />
       </list>
     </recent_temporary>
   </component>
@@ -383,35 +413,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 35m 43s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest_shouldRotateArrayWithKBeingTheFirstElement - 2018.04.20 at 14h 39m 01s.xml">
-      <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest_shouldRotateArrayWithKBeingTheFirstElement - 2018.04.20 at 14h 50m 54s.xml">
-      <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest_shouldRotateArrayWithKBeingTheFirstElement - 2018.04.20 at 14h 50m 58s.xml">
-      <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 51m 24s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 54m 00s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 58m 47s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.20 at 14h 59m 55s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.20 at 15h 00m 39s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArrayRotatorTest - 2018.04.20 at 15h 00m 57s.xml">
       <configuration name="ArrayRotatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 00m 37s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 13m 12s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 13m 44s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 14m 44s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 31m 11s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 31m 23s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 32m 18s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 35m 59s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 36m 09s.xml">
+      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -424,23 +454,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1817" y="38" width="2183" height="1336" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292978" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30347055" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30322582" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5048099" side_tool="true" weight="0.5023734" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4951901" visible="true" weight="0.37368846" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4951901" weight="0.49784946" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18916394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25030527" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -487,6 +517,44 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayRotator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/src/AnagramTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -712,13 +780,6 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Palindrome.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -752,7 +813,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="176">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
@@ -763,7 +824,7 @@
     <entry file="file://$PROJECT_DIR$/src/ArrayRotator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -776,8 +837,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Library.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="566" column="20" selection-start-line="566" selection-start-column="20" selection-end-line="566" selection-end-column="20" />
+          <folding>
+            <element signature="e#23628#23629#0" expanded="true" />
+            <element signature="e#23682#23683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/TwoNumberSumTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoNumberSum.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
