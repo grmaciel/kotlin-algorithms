@@ -16,17 +16,5 @@ class ArrayRotatorTest {
         val result = rotator.rotate(intArrayOf(1, 2, 3), 1)
         Assert.assertThat(result, Is.`is`(intArrayOf(3, 1, 2)))
     }
-
-    @Test
-    fun shouldRotateArrayWithKBeingTheFirstElement() {
-        val result = rotator.rotate(intArrayOf(1, 2, 3), 0)
-        Assert.assertThat(result, Is.`is`(intArrayOf(2, 3, 1)))
-    }
-
-    @Test
-    fun shouldRotateSmallArray() {
-        val result = rotator.rotate(intArrayOf(1, 2), 0)
-        Assert.assertThat(result, Is.`is`(intArrayOf(2, 1)))
-    }
 }
 
