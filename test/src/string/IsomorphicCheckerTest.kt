@@ -1,5 +1,8 @@
+package string
+
 import org.junit.Before
 import org.junit.Test
+import string.IsomorphicChecker
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 

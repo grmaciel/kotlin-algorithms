@@ -1,4 +1,7 @@
+package string
+
 import org.junit.Test
+import string.Palindrome
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 

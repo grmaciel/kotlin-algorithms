@@ -1,4 +1,7 @@
+package string
+
 import org.junit.Test
+import string.Anagram
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 

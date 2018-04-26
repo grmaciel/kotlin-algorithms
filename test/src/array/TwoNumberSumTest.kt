@@ -1,3 +1,6 @@
+package array
+
+import array.TwoNumberSum
 import org.hamcrest.core.Is
 import org.junit.Assert
 import org.junit.Test

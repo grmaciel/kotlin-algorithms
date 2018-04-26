@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/test/src/PalindromeTest.kt" line="13" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/test/src/string/PalindromeTest.kt" line="16" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/string/LongestSubstringTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayRotator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayRotator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BiggestKElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/BiggestKElement.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anagram.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayRotator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BiggestKElement.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsomorphicChecker.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringFinder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoNumberSum.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/AnagramTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/string/AnagramTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/array/ArrayRotatorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/BiggestKElementTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/array/BiggestKElementTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/IsomorphicCheckerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/string/IsomorphicCheckerTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/LongestSubstringTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/PalindromeTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/string/PalindromeTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/TwoNumberSumTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/array/TwoNumberSumTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,23 +34,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayRotator.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ArrayRotator.kt">
+      <file leaf-file-name="BiggestKElement.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/BiggestKElement.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="132">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayRotatorTest.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt">
+      <file leaf-file-name="TwoNumberSum.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/TwoNumberSum.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#73#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BiggestKElementTest.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/array/BiggestKElementTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -46,8 +87,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -71,26 +112,31 @@
         <option value="$PROJECT_DIR$/test/src/IsomorphicCheckerTest.kt" />
         <option value="$PROJECT_DIR$/test/src/AnagramTest.kt" />
         <option value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
-        <option value="$PROJECT_DIR$/test/src/LongestSubstringTest.kt" />
-        <option value="$PROJECT_DIR$/src/LongestSubstringFinder.kt" />
         <option value="$PROJECT_DIR$/src/Palindrome.kt" />
         <option value="$PROJECT_DIR$/test/src/PalindromeTest.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Anagram.kt" />
         <option value="$PROJECT_DIR$/src/IsomorphicChecker.kt" />
         <option value="$PROJECT_DIR$/test/src/TwoNumberSumTest.kt" />
         <option value="$PROJECT_DIR$/src/TwoNumberSum.kt" />
-        <option value="$PROJECT_DIR$/test/src/BiggestKElementTest.kt" />
-        <option value="$PROJECT_DIR$/src/BiggestKElement.kt" />
         <option value="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" />
         <option value="$PROJECT_DIR$/src/ArrayRotator.kt" />
+        <option value="$PROJECT_DIR$/src/ArrayReverser.kt" />
+        <option value="$PROJECT_DIR$/test/src/LongestSubstringTest.kt" />
+        <option value="$PROJECT_DIR$/src/LongestSubstringFinder.kt" />
+        <option value="$PROJECT_DIR$/test/src/QuickSortTest.kt" />
+        <option value="$PROJECT_DIR$/test/src/BiggestKElementTest.kt" />
+        <option value="$PROJECT_DIR$/src/BiggestKElement.kt" />
+        <option value="$PROJECT_DIR$/src/QuickSort.kt" />
+        <option value="$PROJECT_DIR$/src/array/BiggestKElement.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2203" />
+    <option name="y" value="218" />
+    <option name="width" value="1913" />
+    <option name="height" value="1173" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,7 +144,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,6 +157,12 @@
               <item name="kotlin-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="kotlin-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -130,8 +183,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,6 +195,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="string" />
+      <recent name="array" />
+      <recent name="sort" />
+      <recent name="Sorting" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayRotatorTest">
+  <component name="RunManager" selected="JUnit.test in kotlin-algorithms">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -179,12 +239,12 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BiggestKElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlin-algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AnagramTest" />
+      <option name="MAIN_CLASS_NAME" value="BiggestKElementTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -196,30 +256,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArrayRotatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BiggestKElementTest.shouldFindKWithRepeatedElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlin-algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayRotatorTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-algorithms" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayRotatorTest" />
-      <option name="METHOD_NAME" value="shouldRotateArrayWithKBeingTheFirstElement" />
+      <option name="MAIN_CLASS_NAME" value="BiggestKElementTest" />
+      <option name="METHOD_NAME" value="shouldFindKWithRepeatedElements" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
@@ -230,12 +273,29 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BiggestKElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlin-algorithms" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BiggestKElementTest" />
+      <option name="MAIN_CLASS_NAME" value="LongestSubstringTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QuickSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-algorithms" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuickSortTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -268,23 +328,6 @@
         <option name="Make" enabled="false" />
       </method>
     </configuration>
-    <configuration name="TwoNumberSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-algorithms" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TwoNumberSumTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -299,6 +342,24 @@
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
+      <patterns />
+    </configuration>
+    <configuration name="test in kotlin-algorithms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-algorithms" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <dir value="$PROJECT_DIR$/test" />
       <patterns />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -338,19 +399,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Tests" />
-      <item itemvalue="JUnit.AnagramTest" />
-      <item itemvalue="JUnit.ArrayRotatorTest" />
-      <item itemvalue="JUnit.ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" />
-      <item itemvalue="JUnit.TwoNumberSumTest" />
       <item itemvalue="JUnit.BiggestKElementTest" />
+      <item itemvalue="JUnit.LongestSubstringTest" />
+      <item itemvalue="JUnit.QuickSortTest" />
+      <item itemvalue="JUnit.BiggestKElementTest.shouldFindKWithRepeatedElements" />
+      <item itemvalue="JUnit.test in kotlin-algorithms" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayRotatorTest" />
+        <item itemvalue="JUnit.test in kotlin-algorithms" />
+        <item itemvalue="JUnit.QuickSortTest" />
         <item itemvalue="JUnit.BiggestKElementTest" />
-        <item itemvalue="JUnit.TwoNumberSumTest" />
-        <item itemvalue="JUnit.ArrayRotatorTest.shouldRotateArrayWithKBeingTheFirstElement" />
-        <item itemvalue="JUnit.AnagramTest" />
+        <item itemvalue="JUnit.BiggestKElementTest.shouldFindKWithRepeatedElements" />
+        <item itemvalue="JUnit.LongestSubstringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -368,35 +429,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 35m 59s.xml">
-      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    <history-entry file="Tests - 2018.04.26 at 09h 20m 34s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoNumberSumTest - 2018.04.23 at 18h 36m 09s.xml">
-      <configuration name="TwoNumberSumTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 22m 05s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BiggestKElementTest - 2018.04.24 at 09h 41m 50s.xml">
-      <configuration name="BiggestKElementTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 22m 51s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BiggestKElementTest - 2018.04.24 at 09h 49m 41s.xml">
-      <configuration name="BiggestKElementTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 23m 20s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BiggestKElementTest - 2018.04.24 at 09h 50m 30s.xml">
-      <configuration name="BiggestKElementTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 23m 41s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BiggestKElementTest - 2018.04.24 at 09h 50m 40s.xml">
-      <configuration name="BiggestKElementTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 41m 24s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.25 at 14h 03m 17s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 42m 05s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.25 at 16h 27m 03s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 42m 16s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.25 at 16h 28m 24s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
+    <history-entry file="QuickSortTest - 2018.04.26 at 09h 44m 00s.xml">
+      <configuration name="QuickSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayRotatorTest - 2018.04.25 at 16h 30m 51s.xml">
-      <configuration name="ArrayRotatorTest" configurationId="JUnit" />
+    <history-entry file="test_in_kotlin-algorithms - 2018.04.26 at 09h 45m 04s.xml">
+      <configuration name="test in kotlin-algorithms" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -409,28 +470,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="2203" y="218" width="1913" height="1173" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292978" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30322582" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5048099" side_tool="true" weight="0.5023734" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4951901" visible="true" weight="0.49784946" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4951901" weight="0.30855018" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22928914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39951575" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892474" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,6 +498,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.302974" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -445,7 +506,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="47" />
+      <option name="time" value="57" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -464,42 +525,21 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/AnagramTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Anagram.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringFinder.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/PalindromeTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/PalindromeTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -509,49 +549,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/LongestSubstringTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/LongestSubstringTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/IsomorphicChecker.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Palindrome.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/AnagramTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/AnagramTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Anagram.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringFinder.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/PalindromeTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/PalindromeTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -561,49 +601,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/LongestSubstringTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/LongestSubstringTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/IsomorphicChecker.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Palindrome.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/AnagramTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/AnagramTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Anagram.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringFinder.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/PalindromeTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/PalindromeTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -613,49 +653,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/LongestSubstringTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/LongestSubstringTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/IsomorphicChecker.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Palindrome.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Anagram.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringFinder.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="832">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/LongestSubstringTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/LongestSubstringTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/IsomorphicChecker.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
@@ -678,7 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/IsomorphicCheckerTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/IsomorphicCheckerTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
@@ -692,7 +732,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/AnagramTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/AnagramTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -700,14 +740,14 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Palindrome.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/PalindromeTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/string/PalindromeTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -717,38 +757,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/LongestSubstringTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagram.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/Anagram.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsomorphicChecker.kt">
+    <entry file="file://$PROJECT_DIR$/src/string/IsomorphicChecker.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringFinder.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -763,14 +782,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="566" column="20" selection-start-line="566" selection-start-column="20" selection-end-line="566" selection-end-column="20" />
-          <folding>
-            <element signature="e#23628#23629#0" expanded="true" />
-            <element signature="e#23682#23683#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/TwoNumberSumTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/array/TwoNumberSumTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
@@ -780,40 +795,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/array/ArrayRotatorTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="4691" column="20" selection-start-line="4691" selection-start-column="20" selection-end-line="4691" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/BiggestKElementTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoNumberSum.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BiggestKElement.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/ArrayRotatorTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="222">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
@@ -821,10 +805,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayRotator.kt">
+    <entry file="file://$PROJECT_DIR$/src/array/ArrayRotator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayReverser.kt" />
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="4317" column="24" selection-start-line="4317" selection-start-column="24" selection-end-line="4317" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/string/LongestSubstringTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringFinder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/sort/QuickSortTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/array/BiggestKElementTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/BiggestKElement.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/TwoNumberSum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
