@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/string/LongestSubstringTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Anagram.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayRotator.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BiggestKElement.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IsomorphicChecker.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestSubstringFinder.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrome.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoNumberSum.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/AnagramTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/string/AnagramTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/ArrayRotatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/array/ArrayRotatorTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/BiggestKElementTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/array/BiggestKElementTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/IsomorphicCheckerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/string/IsomorphicCheckerTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/LongestSubstringTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/PalindromeTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/string/PalindromeTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/TwoNumberSumTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/array/TwoNumberSumTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +39,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <first_editor relative-caret-position="285">
+                <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -875,8 +858,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <first_editor relative-caret-position="285">
+            <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
