@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e290ca04-d476-457d-81e9-8401616c46d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/PythagorianTriplet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ZigZagOrdering.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/array/PythagorianTripletTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/array/ZigZagOrderTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/array/TwoNumberSumTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/array/TwoNumberSumTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ZigZagOrdering.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ZigZagOrdering.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/test/src/array/ZigZagOrderTest.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
                 <element signature="e#15#88#0" expanded="true" />
               </folding>
@@ -102,8 +96,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="748">
-                <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+              <first_editor relative-caret-position="451">
+                <caret line="43" selection-start-line="43" selection-end-line="44" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -475,9 +469,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PythagorianTripletTest - 2018.05.04 at 16h 10m 09s.xml">
-      <configuration name="PythagorianTripletTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PythagorianTripletTest_shouldHavePythagorianTriplet - 2018.05.04 at 16h 11m 26s.xml">
       <configuration name="PythagorianTripletTest.shouldHavePythagorianTriplet" configurationId="JUnit" />
     </history-entry>
@@ -503,6 +494,9 @@
       <configuration name="ZigZagOrderTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ZigZagOrderTest - 2018.06.05 at 16h 16m 23s.xml">
+      <configuration name="ZigZagOrderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZigZagOrderTest - 2018.06.05 at 16h 20m 23s.xml">
       <configuration name="ZigZagOrderTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -883,13 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/array/PythagorianTripletTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/PythagorianTriplet.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -904,11 +891,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/array/TwoNumberSumTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#15#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="748">
-            <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <first_editor relative-caret-position="451">
+            <caret line="43" selection-start-line="43" selection-end-line="44" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
@@ -919,20 +916,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/array/ZigZagOrderTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/array/PythagorianTripletTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#15#88#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/array/TwoNumberSumTest.kt">
+    <entry file="file://$PROJECT_DIR$/test/src/array/ZigZagOrderTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="220">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
             <element signature="e#15#88#0" expanded="true" />
           </folding>
