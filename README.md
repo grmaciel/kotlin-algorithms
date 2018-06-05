@@ -10,14 +10,14 @@
 * Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases. For example, "Red rum, sir, is murder" is a palindrome, while "Programcreek is awesome" is not.<br>
 
 ## Array
-* Rotate an array of n elements to the right by k steps. <br>Example:
- ``````
+* Rotate an array of n elements to the right by k steps.
+ ```
+ Example:
  with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
-
-* Given an array of integers, find two numbers such that they add up to a specific target number. The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2. Please note that your returned answers (both index1 and index2) are not zero-based.<br> 
-Example:
-
 ```
+* Given an array of integers, find two numbers such that they add up to a specific target number. The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2. Please note that your returned answers (both index1 and index2) are not zero-based.<br> 
+```
+Example:
 Input: numbers={2, 7, 11, 15}, 
 target=9 
 Output: index1=0, index2=1
@@ -28,8 +28,8 @@ Output: index1=0, index2=1
 ## Next problems:
 
 * Given an array of integers, write a function that returns true if there is a triplet (a, b, c) that satisfies a2 + b2 = c2.
-Example:
 ```
+Example:
 Input: arr[] = {3, 1, 4, 6, 5}
 Output: True
 There is a Pythagorean triplet (3, 4, 5).
@@ -39,8 +39,8 @@ There is no Pythagorean triplet.  
 ```
 
 * Given an array of distinct elements, rearrange the elements of array in zig-zag fashion in O(n) time. The converted array should be in form a < b > c < d > e < f.
-<br>Example:
 ```
+Example:
 Input:  arr[] = {4, 3, 7, 8, 6, 2, 1}
 Output: arr[] = {3, 7, 4, 8, 2, 6, 1}
 
