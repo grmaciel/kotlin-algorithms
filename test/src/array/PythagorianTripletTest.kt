@@ -11,6 +11,7 @@ class PythagorianTripletTest {
     fun shouldHavePythagorianTriplet() {
         assertTrue(triplet.find(intArrayOf(3, 1, 4, 6, 5)))
         assertTrue(triplet.find(intArrayOf(3, 4, 5)))
+        assertTrue(triplet.find(intArrayOf(5, 4, 3)))
     }
 
     @Test

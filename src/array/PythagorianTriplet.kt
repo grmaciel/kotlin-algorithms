@@ -1,7 +1,7 @@
 package array
 
 /**
- * Complexity: O(N2)
+ * Complexity: O(N3)
  */
 class PythagorianTriplet {
     fun find(input: IntArray): Boolean {
@@ -11,7 +11,7 @@ class PythagorianTriplet {
                 val next = input[j].square()
                 for (z in (j + 1) until input.size) {
                     val sum = input[z].square()
-                    if (current + next == sum) {
+                    if (current == next + sum || next == current + sum || sum == next + current) {
                         return true
                     }
                 }
