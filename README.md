@@ -23,10 +23,11 @@ target=9
 Output: index1=0, index2=1
 ```
 
-* Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. For example, given [3,2,1,5,6,4] and k = 2, return 5. Note: You may assume k is always valid, 1 ≤ k ≤ array's length.
-
-## Next problems:
-
+* Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. 
+```
+Example: given [3,2,1,5,6,4] and k = 2, return 5. 
+Note: You may assume k is always valid, 1 ≤ k ≤ array's length.
+```
 * Given an array of integers, write a function that returns true if there is a triplet (a, b, c) that satisfies a2 + b2 = c2.
 ```
 Example:
@@ -46,4 +47,24 @@ Output: arr[] = {3, 7, 4, 8, 2, 6, 1}
 
 Input:  arr[] =  {1, 4, 3, 2}
 Output: arr[] =  {1, 4, 2, 3}
+
+## Next problems:
+```
+
+## Bit Manipulation
+
+* Given an array of integers, every element appears twice except for one. Find that single one.
+
+* Get maximum binary Gap.
+```
+Example: 9's binary form is 1001, the gap is 2.
+```
+* Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
+
+* Given an array of integers. find the maximum XOR subarray value in given array. Expected time complexity O(n).
+```
+Example:
+Input: arr[] = {1, 2, 3, 4}
+Output: 7
+The subarray {3, 4} has maximum XOR value
 ```

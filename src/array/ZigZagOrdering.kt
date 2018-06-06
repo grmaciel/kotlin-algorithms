@@ -1,5 +1,8 @@
 package array
 
+/**
+ * Complexity: O(N)
+ */
 class ZigZagOrdering {
     fun rearrange(input: IntArray): IntArray {
         input.forEachIndexed { index, i ->

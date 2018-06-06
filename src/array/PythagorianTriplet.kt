@@ -1,5 +1,8 @@
 package array
 
+/**
+ * Complexity: O(N2)
+ */
 class PythagorianTriplet {
     fun find(input: IntArray): Boolean {
         for (i in 0 until input.size) {
